@@ -2,9 +2,9 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://jagxxi.github.io/urjja-wear">
+  <a href="https://jagxxi.github.io/urjja">
     <img
-      src="https://github.com/jagxxi/urjja-wear/blob/master/src/assets/logos/logo.png?raw=true"
+      src="https://github.com/jagxxi/urjja/blob/master/src/assets/logos/logo.png?raw=true"
       width="375px"
       alt="Project Logo"
     >
@@ -16,13 +16,13 @@
 <!-- PROJECT BADGES -->
 <br />
 <div align="center">
-  <a href="https://jagxxi.github.io/urjja-wear/">
+  <a href="https://jagxxi.github.io/urjja/">
     <img
       src="https://img.shields.io/badge/View_Demo-Click_Here-informational?style=for-the-badge&logo=google+chrome&logoColor=white"
       alt="View Demo - Click Here"
     >
   </a>&nbsp;
-  <a href="https://github.com/jagxxi/urjja-wear/generate">
+  <a href="https://github.com/jagxxi/urjja/generate">
     <img
       src="https://img.shields.io/badge/Generate-Use_This_Template-2ea44f?style=for-the-badge&logo=github&logoColor=white"
       alt="Generate - Use This Template"
@@ -45,29 +45,29 @@
 <!-- PROJECT BADGES -->
 
 <div align="center">
-  <a href="https://github.com/jagxxi/urjja-wear/graphs/contributors">
+  <a href="https://github.com/jagxxi/urjja/graphs/contributors">
     <img
-      src="https://img.shields.io/github/contributors/jagxxi/urjja-wear?color=blueviolet" alt="Contributors"
+      src="https://img.shields.io/github/contributors/jagxxi/urjja?color=blueviolet" alt="Contributors"
     >
   </a>
-  <a href="https://github.com/jagxxi/urjja-wear/graphs/commit-activity">
+  <a href="https://github.com/jagxxi/urjja/graphs/commit-activity">
     <img
-      src="https://img.shields.io/github/last-commit/jagxxi/urjja-wear"
+      src="https://img.shields.io/github/last-commit/jagxxi/urjja"
       alt="Last Commit">
    </a>
-  <a href="https://github.com/jagxxi/urjja-wear/settings/pages">
+  <a href="https://github.com/jagxxi/urjja/settings/pages">
     <img
       src="https://img.shields.io/website?color=success&url=https%3A%2F%2Furjja-wear%2F"
       alt="Website Status">
   </a>
-  <a href="https://github.com/jagxxi/urjja-wear/blob/main/LICENSE.md">
+  <a href="https://github.com/jagxxi/urjja/blob/main/LICENSE.md">
     <img
-      src="https://img.shields.io/github/license/jagxxi/urjja-wear?color=ff69b4"
+      src="https://img.shields.io/github/license/jagxxi/urjja?color=ff69b4"
       alt="License">
   </a>
   <a href="https://github.com/settings/repositories">
     <img
-      src="https://img.shields.io/github/languages/code-size/jagxxi/urjja-wear?color=informational"
+      src="https://img.shields.io/github/languages/code-size/jagxxi/urjja?color=informational"
       alt="Code Size">
   </a>
 </div>
@@ -77,9 +77,9 @@
 ## 🧭 About The Project
 
 <div align="center">
-  <a href="https://jagxxi.github.io/urjja-wear/">
+  <a href="https://jagxxi.github.io/urjja/">
     <img
-      src="https://github.com/jagxxi/urjja-wear/blob/master/src/assets/logos/landing-page.png?raw=true"
+      src="https://github.com/jagxxi/urjja/blob/master/src/assets/logos/landing-page.png?raw=true"
       alt="Website Screenshot">
   </a>
 </div>
